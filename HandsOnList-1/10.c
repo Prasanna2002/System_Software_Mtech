@@ -31,7 +31,7 @@ int main(int argv, char *argc[])
 }
 /*
 Output:
-prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Hands-on-list-1$ gcc 10.c -o Q10
+prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Hands-on-list-1$ gcc 10.c 
 prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Hands-on-list-1$ ./a.out 10_sample.txt
 20
 30
