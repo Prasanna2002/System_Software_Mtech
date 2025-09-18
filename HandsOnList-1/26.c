@@ -18,7 +18,7 @@ int main()
 }
 /*
 Output:
-prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Desktop/Handsonlist1$ gcc Q26.c -o 26
+prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Desktop/Handsonlist1$ gcc 26.c -o 26
 prasanna@prasanna-VivoBook-ASUSLaptop-X530FN-S530FN:~/Desktop/Handsonlist1$ ./26
 This is Me Who is Typing this Line !!!
 
